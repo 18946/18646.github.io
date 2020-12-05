@@ -294,7 +294,7 @@ var Player = (function(w, d, $, pub) {
 })(window, document, jQuery, {});
 
 // Add Songs to Playlist
-Playlist.addSong("Psycho", "Red Velvet", "https://www.img.in.th/images/dc2be8930bfc28c57ffd2013144a4298.jpg", "https://raw.githubusercontent.com/18946/18946.github.io/master/Red%20Velvet%20-%20Psycho.mp3");
+Playlist.addSong("Psycho", "Red Velvet", "https://www.img.in.th/images/dc2be8930bfc28c57ffd2013144a4298.jpg", "https://www.youtube.com/watch?v=eJBhwGznQSY");
 
 // Start Playlist
 Player.init();
